@@ -118,34 +118,4 @@ See Figure 1 below for the UML class diagram highlighting all classes and patter
 
 ---
 
-## Technologies Used
-
-- **Language**: Java 21  
-- **UI**: JavaFX  
-- **Database**: SQLite  
-- **IDE**: IntelliJ IDEA  
-- **UML Tool**: Astah  
-- **Version Control**: GitHub
-
----
-
-## Repository
-
-[https://github.com/your-username/OnlineFoodOrderingApp](https://github.com/your-username/OnlineFoodOrderingApp)  
-*(Replace with your actual link)*
-
----
-
-## How to Run the Application
-
-- Open the project in IntelliJ IDEA.
-- Build and run `MainApp.java`.
-- Java 21 and JavaFX 21+ are required.
-- The app auto-creates the SQLite database on first run.
-- Default users:  
-  - User: `john` / `test123`  
-  - Admin: `admin` / `adminpass`  
-  - *(Or register a new user via the app.)*
-
----
 
