@@ -84,6 +84,14 @@ This project implements an **Online Food Ordering App** where:
 
 ---
 
+## UML Class Diagram
+
+See Figure 1 below for the UML class diagram highlighting all classes and pattern usage.
+
+![UML Class Diagram](uml_class_diagram.png)  
+
+---
+
 ## Input & Output
 
 ### User Inputs
@@ -109,13 +117,6 @@ This project implements an **Online Food Ordering App** where:
 
 ---
 
-## UML Class Diagram
 
-See Figure 1 below for the UML class diagram highlighting all classes and pattern usage.
-
-![UML Class Diagram](uml_class_diagram.png)  
-*(Replace with your actual diagram image file)*
-
----
 
 
