@@ -54,7 +54,7 @@ public class AdminPane {
             double p;
             try {
                 p = Double.parseDouble(ps);
-                if (p < 0) {
+                if (p < 1) {
                     showError("Price must be non-negative");
                     return;
                 }
