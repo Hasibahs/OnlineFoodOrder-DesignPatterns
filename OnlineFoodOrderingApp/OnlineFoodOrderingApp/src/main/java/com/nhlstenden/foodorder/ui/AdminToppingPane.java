@@ -34,15 +34,19 @@ public class AdminToppingPane {
         btnSave.setOnAction(e -> {
             String name = tfName.getText().trim();
             double price;
-            try {
-                price = Double.parseDouble(tfPrice.getText().trim());
-            } catch (Exception ex) {
-                showError("Price must be numeric");
+            if (name.isEmpty()) {
+                showError("Topping name is required.");
                 return;
             }
 
-            if (name.isEmpty()) {
-                showError("Name required");
+            try {
+                price = Double.parseDouble(tfPrice.getText().trim());
+                if (price <= 0) {
+                    showError("Price must be greater than 0.");
+                    return;
+                }
+            } catch (NumberFormatException ex) {
+                showError("Price must be a valid number.");
                 return;
             }
 
