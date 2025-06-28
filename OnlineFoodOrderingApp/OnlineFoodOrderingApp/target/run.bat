@@ -1,0 +1,1 @@
+java --module-path "C:\Users\adwer\Documents\Github\OnlineFoodOrder-DesignPatterns\OnlineFoodOrderingApp\OnlineFoodOrderingApp\target\javafx-sdk-24.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar foodorderapp-1.0-SNAPSHOT.jar
