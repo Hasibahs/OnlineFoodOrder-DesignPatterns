@@ -49,8 +49,10 @@ This is a JavaFX desktop application for food ordering.
 
 ---
 5. Admin Login
-  Username: admin
-  Password: 12345
+
+Username: admin
+
+Password: 12345
 
 You can use these credentials to log in as an administrator and manage users, menu items, and toppings.
 
