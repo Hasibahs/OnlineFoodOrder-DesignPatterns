@@ -21,7 +21,7 @@ This is a JavaFX desktop application for food ordering.
 
 1. **Download and extract the ZIP file** so you see this structure:
     ```
-    - Navigate to `OnlineFoodOrderingApp/OnlineFoodOrderingApp/target/`
+    - Navigate to `OnlineFoodOrderingApp/OnlineFoodOrderingApp/`
     ```
 
 2. **Double-click `run.bat`.**
