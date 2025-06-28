@@ -48,11 +48,11 @@ This is a JavaFX desktop application for food ordering.
 - If you use macOS or Linux, adjust the JavaFX `--module-path` accordingly and use `sh run.sh` instead.
 
 ---
-5. Admin Login
+5. **Admin Login**
 
-Username: admin
+- Username: admin
 
-Password: 12345
+- Password: 12345
 
 You can use these credentials to log in as an administrator and manage users, menu items, and toppings.
 
